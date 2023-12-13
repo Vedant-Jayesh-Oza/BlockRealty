@@ -70,7 +70,6 @@ Traditional real estate investing poses challenges such as high transaction cost
 
 ## Project Video 
 
-![Project Video](https://github.com/Vedant-Jayesh-Oza/BlockRealty/assets/75005433/e252a598-12fc-49d9-aa30-7258b965f143)
-
+https://github.com/Vedant-Jayesh-Oza/BlockRealty/assets/75005433/ce2fbdc7-931b-41b6-a19b-f89b230b213a
 
 This project aims to revolutionize the real estate industry by making transactions more accessible, transparent, and secure through the innovative use of blockchain technology.
